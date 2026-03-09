@@ -85,13 +85,7 @@ The app uses a local **SQLite3** database `bank.db` with two main tables:
 - Language: Python 3.x
 - GUI: Tkinter / ttk
 - Database: SQLite3
-- Libraries: hashlib, csv, datetime
-
----
-
-  License
-This project is open-source under the MIT License — free to use and modify.
-
+- Libraries: hashlib, csv, datetime
 ---
 
  Developed by TAR & Aaron
